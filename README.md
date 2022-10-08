@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vinh Tong
+- 👋 Hi, I’m Vinh Tong; I'm a 1st year PhD student at University of Stuttgart, Germany!
 - 👀 I’m interested in ML on Graphs, my previous works mainly forcus on Knowledge Graph embeddings
 - 🌱 I’m currently working more on Machine Learning for Drug Discovery!
 - 📫 How to reach me: vinh.tong@ipvs.uni-stuttgart.de or vinhbachkhoait@gmail.com
