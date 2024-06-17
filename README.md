@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vinh Tong; I'm a 2nd year PhD student at the University of Stuttgart, Germany!
+- 👋 Hi, I’m Vinh Tong; I'm a 3rd year PhD student at the University of Stuttgart, Germany!
 - 👀 I’m interested in generative AI, especially Diffusion Models. 
 - 🌱 I’m currently working on accelerating diffusion sampling!
 - 📫 How to reach me: vinh.tong@ki.uni-stuttgart.de or vinhbachkhoait@gmail.com
